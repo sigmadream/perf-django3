@@ -3,8 +3,8 @@
     "model": "polls.question",
     "pk": 1,
     "fields": {
-        "question_text": "Which House are you in?",
-        "pub_date": "2019-12-08T13:12:33Z"
+        "question_text": "어떤 신발을 좋아하나요?",
+        "pub_date": "2021-02-27T13:12:33Z"
     }
 },
 {
@@ -12,7 +12,7 @@
     "pk": 1,
     "fields": {
         "question": 1,
-        "choice_text": "Gryffindor",
+        "choice_text": "나이키",
         "votes": 0
     }
 },
@@ -21,7 +21,7 @@
     "pk": 2,
     "fields": {
         "question": 1,
-        "choice_text": "Ravenclaw",
+        "choice_text": "아디다스",
         "votes": 0
     }
 },
@@ -30,7 +30,7 @@
     "pk": 3,
     "fields": {
         "question": 1,
-        "choice_text": "Hufflepuff",
+        "choice_text": "반스",
         "votes": 0
     }
 },
@@ -39,7 +39,7 @@
     "pk": 4,
     "fields": {
         "question": 1,
-        "choice_text": "Slytherin",
+        "choice_text": "리복",
         "votes": 0
     }
 }

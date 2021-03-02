@@ -105,3 +105,6 @@ venv.bak/
 
 # DS Store
 .DS_Store
+djangoapp/postgres_db
+
+djangoapp/postgres_db-journal
